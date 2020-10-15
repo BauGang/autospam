@@ -3,7 +3,7 @@
 This is a test for learning python.
 You can use it free.
 ____________________________________________________________________________
-# Command:
+# Command
 
 Use F1 for start spam, F2 for pause and click ESC for exit
 ____________________________________________________________________________
